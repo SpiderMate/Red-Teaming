@@ -9,7 +9,6 @@
 
 UPLOADED TO VIRUS TOTAL : 21/06/2019 
 
-Just think like a hacker and everything will be easy.
 
 ### POC :
 
@@ -21,6 +20,8 @@ Just think like a hacker and everything will be easy.
 - Now it will not get detected by major Anti virus vendors but still for stealth & to avoid firewall detection you can add a real Signature to the binary or can use tools like <a href="https://github.com/secretsquirrel/SigThief">SigThef</a> to add an invalid signare to do the work.
 
 - Thats all, Nothing Fancy.
+
+VIDEO : <a href="">YOUTUBE</a>
 
 I am on twitter <a href="https://twitter.com/spidersec">@spidersec</a>
 
